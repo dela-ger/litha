@@ -14,7 +14,7 @@ export default function ArticleCard() {
           Recent Articles
         </h1>
         <p className="text-gray-600 max-w-xl mx-auto text-sm sm:text-base">
-          Explore our latest teachings and spiritual insights
+          Explore our latest teachings and spiritual insight
         </p>
       </div>
       
