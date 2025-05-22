@@ -11,7 +11,7 @@ export default function Home() {
         <Hero />
 
           <FaithTags />
-        <div className="mt-15 mr-40 ml-40">
+        <div className="mt-15 mx-4 sm:mx-8 md:mx-16 lg:mx-24 xl:mx-40">
           <ArticleCard />
 
         </div>
