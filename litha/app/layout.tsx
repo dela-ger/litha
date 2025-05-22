@@ -7,6 +7,9 @@ import {
   SignedOut,
   UserButton,
 } from '@clerk/nextjs'
+// 🔥 force dynamic rendering (critical)
+export const dynamic = 'force-dynamic'
+
 import { Geist, Geist_Mono } from 'next/font/google'
 import Image from 'next/image'
 import Link from 'next/link'
