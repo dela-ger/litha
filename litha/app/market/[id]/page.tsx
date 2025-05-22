@@ -30,7 +30,7 @@ export default function ProductDetail() {
     }
 
     return (
-        <div className="min-h-screen bg-gray-50 py-8 px-4 sm:px-6 lg:px-8 mr-40 ml-40">
+        <div className="min-h-screen bg-gray-50 py-8 px-4 sm:px-6 lg:px-8 mx-4 sm:mx-8 md:mx-16 lg:mx-24 xl:mx-40">
             <div className="max-w-7xl mx-auto">
                 {/* Back Button */}
                 <div className="mb-8">

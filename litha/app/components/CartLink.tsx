@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { useCheckout } from '../context/CheckoutContext'
 
 export default function CartLink() {
-  const { items } = useCheckout() || { items: [] } // Fallback to empty array
+  const { items } = useCheckout() || { items: [] }
 
   return (
     <Link 
