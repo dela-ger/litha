@@ -7,4 +7,11 @@ const nextConfig: NextConfig = {
   },
 };
 
+// module.exports = {
+//   env: {
+//     CLERK_PUBLISHABLE_KEY: process.env.CLERK_PUBLISHABLE_KEY,
+//     CLERK_SECRET_KEY: process.env.CLERK_SECRET_KEY,
+//   },
+// }
+
 export default nextConfig;
